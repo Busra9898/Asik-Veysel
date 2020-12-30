@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head lang="tr">
+        <title>Âşık Veysel</title>
+    </head>
+    <body>
+        <div id="header">
+        </div>
+        <div id="AsıkVeysel">
+            <h1>Âşık Veysel</h1>
+            <a href="https://tr.wikipedia.org/wiki/%C3%82%C5%9F%C4%B1k_Veysel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asik_Veysel.jpg/220px-Asik_Veysel.jpg" alt="Âşık Veysel'in portresi"></a>
+            <p>
+                Âşık Veysel gerçek adıyla Veysel Şatıroğlu (25 Ekim 1894; Şarkışla, Sivas - 21 Mart 1973; Şarkışla, Sivas), Türk halk ozanı. Afşar boyunun Şatırlı obasına mensuptur.
+            </p>
+            <div id="navigation">
+                <h3>İçindekiler</h3>
+                <ol>
+                    <li><a href="#hayatı">Hayatı</a></li>
+                    <li><a href="#hyçalışmalar">Hakkında Yapılan Çalışmalar</a></li>
+                    <li><a href="#hatırası">Hatırası</a>
+                        <ol>
+                            <li><a href="#hatıra1">Aşık Veysel Müzesi</a></li>
+                            <li><a href="#hatıra2">Aşık Veysel Kültür Derneği</a></li>
+                            <li><a href="#hatıra3">Aşık Veysel Meslek Yüksekokulu</a></li>
+                        </ol>
+                    </li>
+                    <li><a href="#eserleri">Eserleri</a></li>
+                </ol>
+            </div>
+        </div>
+        
+        <div id="hayatı">
+            <h2>Hayatı</h2>
+            <p>
+                Âşık Veysel Şatıroğlu, 1894 yılında Sivas'ın Şarkışla ilçesine bağlı Sivrialan köyünde dünyaya geldi.[1] Annesi Gülizar, babası "Karaca" lakaplı Ahmet adında bir çiftçiydi.[1] Veysel'in iki kız kardeşi, yörede yaygınlaşan çiçek hastalığına yakalanarak yaşamlarını yitirdi.[1] Ardından Veysel de yedi yaşında aynı hastalıktan dolayı iki gözünü de kaybetti.[1] Kendi anlatımına göre:[2]
+
+                « Çiçeğe yatmadan evvel anam güzel bir entari dikmişti. Onu giyerek beni çok seven Muhsine kadına göstermeye gitmiştim. Beni sevdi. O gün çamurlu bir gündü, eve dönerken ayağım kaydı ve düştüm. Bir daha kalkamadım. Çiçeğe yakalanmıştım... Çiçek zorlu geldi. Sol gözümde çiçek beyi çıktı. Sağ gözüme de, solun zorundan olacak, perde indi. O gün bugündür dünya başıma zindan. »
+                Babasının, Âşık Veysel'e oyalanması için aldığı bağlamayla önce başka ozanların türkülerini çalmaya başladı. 1930 yılında Sivas Maarif Müdürü olarak görev yapan Ahmet Kutsi Tecer ile Kutsi Bey tarafından düzenlenen bir şairler gecesinde tanıştı. Kutsi Bey tarafından verilen destek ile birçok ili dolaşmaya başladı.[3][4]
+
+                Âşık geleneğinin son büyük temsilcilerinden olan Âşık Veysel, bir dönem yurdu dolaşarak Köy Enstitüleri'nde saz hocalığı yaptı. 1965 yılında özel kanunla maaş bağlandı. 1970'li yıllarda Selda Bağcan, Gülden Karaböcek, Hümeyra, Fikret Kızılok ve Esin Afşar gibi bazı müzisyenler Âşık Veysel'in deyişlerini düzenleyerek yaygınlaşmasını sağladı. Aşık Veysel'in çocuklarından öğretmen olan Bahri Şatıroğlu, babasının yaşamını gün gün kaleme almış ve pek çok çalışmaya kaynak kişi olarak katılmıştır. Ayrıca babasının saz ve söz geleneğini sürdürmektedir.
+
+                Eserlerinde Türkçesi yalındır. Dili ustalıkla kullanır. Yaşama sevinciyle hüzün, iyimserlikle umutsuzluk şiirlerinde iç içeydi. Doğa, toplumsal olaylar, din ve siyasete ince eleştiriler yönelttiği şiirleri de vardır. Şiirleri, Deyişler (1944), Sazımdan Sesler (1950), Dostlar Beni Hatırlasın (1970) isimli kitaplarında toplandı. 1973 yılında akciğer kanseri sonucunda öldü. Ölümünden sonra Bütün Şiirleri (1984) adıyla eserleri tekrar yayınlandı.
+            </p>
+        </div>
+        <div id="hyçalışmalar">
+            <h2>Hakkında Yapılan Çalışmalar</h2>
+            <p>
+                Aşık Veysel ile ilgili yapılan araştırmalar içerisinde Kutlu Özen önemli bir yere sahiptir. Ölümünden sonra yüzünün kalıbının alınması sırasında orada bulunan kişilerden birisidir.[5] "Aşık Veysel Selam Olsun Kucak Kucak"[6] adlı eseri bir başvuru kitabı niteliğindedir.
+            </p>
+        </div>
+        <div id="hatırası">
+            <h2>Hatırası</h2>
+            <p>
+                1952'de senaryosunu Bedri Rahmi Eyüboğlu'nun yazdığı, Metin Erksan'ın yönettiği "Karanlık Dünya" filminde Âşık Veysel de oynadı. Film "Anadolu'daki ekinleri cılız ve kısa boylu gösterdiği için" yasaklandı.[kaynak belirtilmeli] Filmde "Kaçan eşi Esma'nın çorabına para koyma" olayı gerçek olmamakla birlikte özellikle kadın hakları aktivistleri ve geniş halk kitleleri tarafından gündemde tutulmuş ve Aşık Veysel'in eserlerinde yansıttığı değerlerle ilişkilendirilmiştir. Gerçek ise köye tekrar dönen Esma'ya mağduriyet yaşamaması için ölümüne kadar destek olduğudur.
+
+                2014 yılının Kasım ayında Devlet Opera ve Balesi, Âşık Veysel'in ölümünün 41. yılı anısına onun türkülerinden yola çıkılarak hazırlanan, tek perdelik dans tiyatrosu "Dostlar Beni Hatırlasın" sahneye konulmuştur. 17 Kasım 2014 yapılan prömiyere onur konuğu olarak Âşık Veysel'in kızı Menekşe Süzer ve torunları Gündüz Şatıroğlu, Hayrettin Süzer, Nazender Süzer, Halil Süzer ve Gülizar Bulguer katılmıştır. Gösterinin rejisörlüğünü İhsan Bengier yaparken, Almula Ersoy, Ayşegül Aydemir, Deniz Alp, Sevim Başol ve Müge Gündüz gibi isimler rol almıştır.
+            </p>
+            <div id="hatıra1">
+                <h3>Aşık Veysel Müzesi</h3>
+                <p>
+                    Büyük halk ozanı Âşık Veysel’in yaşadığı Sivrialan köyündeki evi 1982 yılından itibaren Kültür Bakanlığı tarafından müzeye dönüştürülmüştür. Âşık Veysel’in kişisel eşyaları, sazları, fotoğraflar bulunmaktadır. Her yıl 16-21 Mart tarihleri arasında Şarkışla Sivrialan köyünde anma törenleri ve Âşıklar Bayramı düzenlenmektedir.
+                </p>
+            </div>
+            <div id="hatıra2">
+                <h3>Aşık Veysel Kültür Derneği</h3>
+                <p>
+                    Aşık Veysel Kültür Derneği 1972 yılında Aşık Veysel Şatıroğlu'nun izni alınarak kurulmuştur. Derneğin amacı, halk ozanını bütün yönleriyle tanıtmak ve yaşatmak için sosyal ve kültürel faaliyetler yürütmektir. Dernek kurulduğu günden bu yana özellikle Aşık Veysel'in ölüm yıldönümü olan 21 Mart haftasında anma programları düzenlemektedir. 1972'de kurulan derneğin faaliyetleri ülkenin siyasi değişimlerinden etkilenmiş ve zaman zaman kesintiye uğramıştır. Dernek bir dönem "Dost Dost" adında bir de dergi çıkarmıştır. 2015-2018 yılları arasında torunlarından Gündüz Şatıroğlu dernek başkanlığını yürütmüş bu dönemde başta Kültür Ve Turizm Bakanlığı olmak üzere UNESCO, yerel yönetimler, üniversiteler, sivil toplum kuruluşları ve ressam Funda İyce Tuncel ile birlikte kültür/sanat projeleri hayata geçirilmiştir. Projeler arsında Dostlar Beni Hatırlasın, Uzun İnce Yol, Renklerdeki Işık, Toprak Gibidir Veysel ve Bu Bendeki Aşk Olmasa yoğun ilgi görmüştür. Gündüz Şatıroğlu yine bu dönemde Aşık Veysel bibliyografyası hazırlanmasına katkı sağlamıştır.
+                </p>
+            </div>
+            <div id="hatıra3">
+                <h3>Âşık Veysel Meslek Yüksekokulu</h3>
+                <p>
+                    Âşık Veysel'in vasiyeti dikkate alınarak adının verildiği ilk eğitim kurumu olma niteliği taşımaktadır. Cumhuriyet Üniversitesi'ne bağlı olan kurum ortalama 700-800 öğrenci mevcudu ile öğrenime devam etmektedir.
+                </p>
+            </div>
+        </div>
+        <div id="eserleri">
+            <h2>Eserleri</h2>
+            <p>
+                <ul>
+                    <li>Anlatamam Derdimi (5:24)</li>
+                    <li>Arasam Seni Gül İlen (4:18)</li>
+                    <li>Atatürk'e Ağıt (5:26)</li>
+                    <li>Beni Hor Görme (2:46)</li>
+                    <li>Beş Günlük Dünya (3:58)</li>
+                    <li>Bir Kökte Uzamış (4:55)</li>
+                    <li>Birlik Destanı (1:42)</li>
+                    <li>Çiçekler (3:05)</li>
+                    <li>Cümle Âlem Senindir (6:44)</li>
+                    <li>Derdimi Dökersem Derin Dereye (4:51)</li>
+                    <li>Dost Çevirmiş Yüzünü Benden (3:12)</li>
+                    <li>Dost Yolunda (4:43)</li>            
+                </ul>
+            </p>
+        </div>
+        <div id="footer">
+            <a href="#navigation">İçindekilere dön</a>
+        </div>
+    </body>
+</html>
